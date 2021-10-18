@@ -1,3 +1,7 @@
 dvc
 pandas
 scikit-learn
+# loal packages -
+
+# below command with create all src.egg-info file
+-e .
